@@ -1,0 +1,17 @@
+@import url("styles/header.css");
+
+:root{
+    --cor-de-fundo-titulo: #C72626;
+    --branco:#FFFFFF;
+    --cor-rua:#C38A1B;
+    --cor-rua2:#000000;
+
+}
+
+body{
+    background-color: var(--branco);
+}
+
+header{
+    background-color: var(--cor-de-fundo-titulo);
+}
