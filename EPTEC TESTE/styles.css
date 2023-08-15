@@ -14,4 +14,9 @@ body{
 
 header{
     background-color: var(--cor-de-fundo-titulo);
+    
+}
+
+.container_titulo{
+    color: #f9ebeb;
 }
